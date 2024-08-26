@@ -1,0 +1,1 @@
+﻿Stellen sie sicher, dass die version.txt sich im gleichen Ordner befindet wie die Exe-Datei. Wenn sie die Exe-Datei in einem anderen Ordner haben, kopieren sie die version.txt in den Ordner, in dem sich die Exe-Datei befindet.
