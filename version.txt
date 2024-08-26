@@ -1,2 +1,1 @@
 ﻿1.0.0
-https://github.com/Fasterralf/UniPlay/raw/master/bin/Release/UniPlay.exe
