@@ -1,0 +1,275 @@
+﻿{
+  "Pokemon Red": [ "pokemon", "red", "rot", "rouge", "feuerrot", "fire" ],
+  "Pokemon Blue": [ "pokemon", "blue", "blau", "bleu" ],
+  "Pokemon Yellow": [ "pokemon", "yellow", "gelb", "jaune", "pikachu" ],
+  "Pokemon Gold": [ "pokemon", "gold", "or" ],
+  "Pokemon Silver": [ "pokemon", "silver", "silber", "argent" ],
+  "Pokemon Crystal": [ "pokemon", "crystal", "kristall", "cristal" ],
+  "Pokemon Ruby": [ "pokemon", "ruby", "rubin", "rubis" ],
+  "Pokemon Sapphire": [ "pokemon", "sapphire", "saphir" ],
+  "Pokemon Emerald": [ "pokemon", "emerald", "smaragd", "émeraude" ],
+  "Pokemon FireRed": [ "pokemon", "firered", "feuerrot", "rouge feu" ],
+  "Pokemon LeafGreen": [ "pokemon", "leafgreen", "blattgrün", "vert feuille" ],
+  "Pokemon Diamond": [ "pokemon", "diamond", "diamant" ],
+  "Pokemon Pearl": [ "pokemon", "pearl", "perle" ],
+  "Pokemon Platinum": [ "pokemon", "platinum", "platin", "platine" ],
+  "Pokemon HeartGold": [ "pokemon", "heartgold", "goldene", "or heartgold" ],
+  "Pokemon SoulSilver": [ "pokemon", "soulsilver", "silberne", "argent soulsilver" ],
+  "Pokemon Black": [ "pokemon", "black", "schwarz", "noir" ],
+  "Pokemon White": [ "pokemon", "white", "weiß", "blanc" ],
+  "Pokemon Black 2": [ "pokemon", "black", "schwarz", "noir", "2" ],
+  "Pokemon White 2": [ "pokemon", "white", "weiß", "blanc", "2" ],
+  "Pokemon X": [ "pokemon", "x" ],
+  "Pokemon Y": [ "pokemon", "y" ],
+  "Pokemon Omega Ruby": [ "pokemon", "omega", "ruby", "rubin", "rubis" ],
+  "Pokemon Alpha Sapphire": [ "pokemon", "alpha", "sapphire", "saphir" ],
+  "Pokemon Sun": [ "pokemon", "sun", "sonne", "soleil" ],
+  "Pokemon Moon": [ "pokemon", "moon", "mond", "lune" ],
+  "Pokemon Ultra Sun": [ "pokemon", "ultra", "sun", "sonne", "soleil" ],
+  "Pokemon Ultra Moon": [ "pokemon", "ultra", "moon", "mond", "lune" ],
+  "Pokemon Let's Go, Pikachu!": [ "pokemon", "let's go", "pikachu" ],
+  "Pokemon Let's Go, Eevee!": [ "pokemon", "let's go", "eevee", "evoli" ],
+  "Pokemon Sword": [ "pokemon", "sword", "schwert", "épée" ],
+  "Pokemon Shield": [ "pokemon", "shield", "schild", "bouclier" ],
+  "Pokemon Brilliant Diamond": [ "pokemon", "brilliant", "diamond", "diamant" ],
+  "Pokemon Shining Pearl": [ "pokemon", "shining", "pearl", "perle" ],
+  "Pokemon Legends: Arceus": [ "pokemon", "legends", "arceus", "legenden", "légendes" ],
+  "Pokemon Scarlet": [ "pokemon", "scarlet", "karmesin", "écarlate" ],
+  "Pokemon Violet": [ "pokemon", "violet", "purpur" ],
+
+  "The Legend of Zelda": [ "zelda", "legend", "hyrule" ],
+  "The Legend of Zelda: The Adventure of Link": [ "zelda", "adventure", "link", "abenteuer" ],
+  "The Legend of Zelda: A Link to the Past": [ "zelda", "link", "past", "vergangenheit", "passé" ],
+  "The Legend of Zelda: Link's Awakening": [ "legend", "zelda", "link", "awakening", "loz" ],
+  "The Legend of Zelda: Ocarina of Time": [ "zelda", "ocarina", "time", "zeit", "temps" ],
+  "The Legend of Zelda: Majora's Mask": [ "zelda", "majora", "mask", "maske", "masque" ],
+  "The Legend of Zelda: Oracle of Seasons": [ "zelda", "oracle", "seasons", "jahreszeiten", "saisons" ],
+  "The Legend of Zelda: Oracle of Ages": [ "zelda", "oracle", "ages", "zeitalter", "âges" ],
+  "The Legend of Zelda: The Wind Waker": [ "zelda", "wind", "waker", "windwaker" ],
+  "The Legend of Zelda: Four Swords Adventures": [ "zelda", "four", "swords", "schwerter", "épées" ],
+  "The Legend of Zelda: The Minish Cap": [ "zelda", "minish", "cap", "mütze", "bonnet" ],
+  "The Legend of Zelda: Twilight Princess": [ "zelda", "twilight", "princess", "prinzessin", "princesse" ],
+  "The Legend of Zelda: Phantom Hourglass": [ "zelda", "phantom", "hourglass", "sanduhr", "sablier" ],
+  "The Legend of Zelda: Spirit Tracks": [ "zelda", "spirit", "tracks", "pfade", "rails" ],
+  "The Legend of Zelda: Skyward Sword": [ "zelda", "skyward", "sword", "schwert", "épée" ],
+  "The Legend of Zelda: A Link Between Worlds": [ "zelda", "link", "between", "worlds", "welten", "mondes" ],
+  "The Legend of Zelda: Tri Force Heroes": [ "zelda", "tri", "force", "heroes", "helden", "héros" ],
+  "The Legend of Zelda: Breath of the Wild": [ "zelda", "breath", "wild", "atem", "souffle" ],
+  "The Legend of Zelda: Tears of the Kingdom": [ "zelda", "tears", "kingdom", "königreich", "royaume" ],
+
+  "Super Mario Bros.": [ "super", "mario", "bros", "brothers" ],
+  "Super Mario Bros. 2": [ "super", "mario", "bros", "brothers", "2" ],
+  "Super Mario Bros. 3": [ "super", "mario", "bros", "brothers", "3" ],
+  "Super Mario World": [ "super", "mario", "world", "welt", "monde" ],
+  "Super Mario Land": [ "super", "mario", "land" ],
+  "Super Mario Land 2: 6 Golden Coins": [ "super", "mario", "land", "2", "golden", "coins", "münzen", "pièces" ],
+  "Super Mario 64": [ "super", "mario", "64" ],
+  "Super Mario Sunshine": [ "super", "mario", "sunshine", "sonnenschein" ],
+  "New Super Mario Bros.": [ "new", "super", "mario", "bros", "brothers" ],
+  "Super Mario Galaxy": [ "super", "mario", "galaxy", "galaxie" ],
+  "New Super Mario Bros. Wii": [ "new", "super", "mario", "bros", "brothers", "wii" ],
+  "Super Mario Galaxy 2": [ "super", "mario", "galaxy", "galaxie", "2" ],
+  "Super Mario 3D Land": [ "super", "mario", "3d", "land" ],
+  "New Super Mario Bros. 2": [ "new", "super", "mario", "bros", "brothers", "2" ],
+  "New Super Mario Bros. U": [ "new", "super", "mario", "bros", "brothers", "u" ],
+  "Super Mario 3D World": [ "super", "mario", "3d", "world", "welt", "monde" ],
+  "Super Mario Maker": [ "super", "mario", "maker" ],
+  "Super Mario Run": [ "super", "mario", "run" ],
+  "Super Mario Odyssey": [ "super", "mario", "odyssey", "odyssee" ],
+  "Super Mario Maker 2": [ "super", "mario", "maker", "2" ],
+  "Super Mario 3D World + Bowser's Fury": [ "super", "mario", "3d", "world", "bowser", "fury", "wut", "fureur" ],
+
+  "Wario Land II": [ "wario", "land", "2", "ii" ],
+
+  "Donkey Kong Country": [ "donkey", "kong", "country", "land" ],
+  "Donkey Kong Country 2": [ "donkey", "kong", "country", "land", "2", "ii", "diddy" ],
+  "Donkey Kong Country 3": [ "donkey", "kong", "country", "land", "3", "iii", "dixie" ],
+  "Donkey Kong 64": [ "donkey", "kong", "64" ],
+  "Donkey Kong Country Returns": [ "donkey", "kong", "country", "returns", "retour" ],
+  "Donkey Kong Country: Tropical Freeze": [ "donkey", "kong", "country", "tropical", "freeze" ],
+  "Donkey Kong": [ "donkey", "kong" ],
+  "Donkey Kong Jr.": [ "donkey", "kong", "jr", "junior" ],
+  "Donkey Kong 3": [ "donkey", "kong", "3" ],
+  "Donkey Kong Jr. Math": [ "donkey", "kong", "jr", "junior", "math" ],
+  "Donkey Kong Jungle Beat": [ "donkey", "kong", "jungle", "beat" ],
+  "Donkey Konga": [ "donkey", "konga" ],
+  "Donkey Konga 2": [ "donkey", "konga", "2" ],
+  "Donkey Konga 3": [ "donkey", "konga", "3" ],
+
+  "Metroid": [ "metroid" ],
+  "Metroid II: Return of Samus": [ "metroid", "2", "ii", "return", "samus" ],
+  "Super Metroid": [ "super", "metroid" ],
+  "Metroid Fusion": [ "metroid", "fusion" ],
+  "Metroid Prime": [ "metroid", "prime" ],
+  "Metroid: Zero Mission": [ "metroid", "zero", "mission" ],
+  "Metroid Prime 2: Echoes": [ "metroid", "prime", "2", "echoes" ],
+  "Metroid Prime Hunters": [ "metroid", "prime", "hunters" ],
+  "Metroid Prime 3: Corruption": [ "metroid", "prime", "3", "corruption" ],
+  "Metroid: Other M": [ "metroid", "other", "m" ],
+  "Metroid Samus Returns": [ "metroid", "samus", "returns", "ii", "2" ],
+  "Metroid Dread": [ "metroid", "dread" ],
+
+  "Kirby's Dream Land": [ "kirby", "dream", "land" ],
+  "Kirby's Dream Land 2": [ "kirby", "dream", "land", "2" ],
+  "Kirby's Adventure": [ "kirby", "adventure", "kibys adventure" ],
+  "Kirby Super Star": [ "kirby", "super", "star" ],
+  "Kirby 64: The Crystal Shards": [ "kirby", "64", "crystal", "shards" ],
+  "Kirby: Nightmare in Dream Land": [ "kirby", "nightmare", "dream", "land" ],
+  "Kirby & the Amazing Mirror": [ "kirby", "amazing", "mirror" ],
+  "Kirby: Canvas Curse": [ "kirby", "canvas", "curse" ],
+  "Kirby: Squeak Squad": [ "kirby", "squeak", "squad" ],
+  "Kirby Super Star Ultra": [ "kirby", "super", "star", "ultra" ],
+  "Kirby's Return to Dream Land": [ "kirby", "return", "dream", "land" ],
+  "Kirby: Triple Deluxe": [ "kirby", "triple", "deluxe" ],
+  "Kirby: Planet Robobot": [ "kirby", "planet", "robobot" ],
+  "Kirby Star Allies": [ "kirby", "star", "allies" ],
+  "Kirby and the Forgotten Land": [ "kirby", "forgotten", "land" ],
+  "Kirby's Pinball Land": [ "kirby", "pinball", "land" ],
+
+
+  "Pikmin": [ "pikmin" ],
+  "Pikmin 2": [ "pikmin", "2" ],
+  "Pikmin 3": [ "pikmin", "3" ],
+  "Pikmin 3 Deluxe": [ "pikmin", "3", "deluxe" ],
+  "Hey! Pikmin": [ "hey", "pikmin" ],
+
+  "Animal Crossing": [ "animal", "crossing" ],
+  "Animal Crossing: Wild World": [ "animal", "crossing", "wild", "world" ],
+  "Animal Crossing: City Folk": [ "animal", "crossing", "city", "folk" ],
+  "Animal Crossing: New Leaf": [ "animal", "crossing", "new", "leaf" ],
+  "Animal Crossing: New Horizons": [ "animal", "crossing", "new", "horizons" ],
+
+  "Splatoon": [ "splatoon" ],
+  "Splatoon 2": [ "splatoon", "2" ],
+  "Splatoon 3": [ "splatoon", "3" ],
+
+  "Star Fox": [ "star", "fox" ],
+  "Star Fox 64": [ "star", "fox", "64" ],
+  "Star Fox Adventures": [ "star", "fox", "adventures" ],
+  "Star Fox: Assault": [ "star", "fox", "assault" ],
+  "Star Fox Command": [ "star", "fox", "command" ],
+  "Star Fox Zero": [ "star", "fox", "zero" ],
+
+  "F-Zero": [ "f-zero" ],
+  "F-Zero X": [ "f-zero", "x" ],
+  "F-Zero GX": [ "f-zero", "gx" ],
+
+  "Fire Emblem": [ "fire", "emblem" ],
+  "Fire Emblem: The Sacred Stones": [ "fire", "emblem", "sacred", "stones" ],
+  "Fire Emblem: Path of Radiance": [ "fire", "emblem", "path", "radiance" ],
+  "Fire Emblem: Radiant Dawn": [ "fire", "emblem", "radiant", "dawn" ],
+  "Fire Emblem: Shadow Dragon": [ "fire", "emblem", "shadow", "dragon" ],
+  "Fire Emblem: New Mystery of the Emblem": [ "fire", "emblem", "new", "mystery" ],
+  "Fire Emblem Awakening": [ "fire", "emblem", "awakening" ],
+  "Fire Emblem Fates": [ "fire", "emblem", "fates" ],
+  "Fire Emblem Echoes: Shadows of Valentia": [ "fire", "emblem", "echoes", "shadows", "valentia" ],
+  "Fire Emblem: Three Houses": [ "fire", "emblem", "three", "houses" ],
+
+  "Spider-Man": [ "spider-man" ],
+  "Spider-Man 2": [ "spider-man", "2", "ii" ],
+  "Spider-Man 3: Invasion of Spider-Slayers": [ "spider-man", "invasion", "spider", "slayers", "3", "iii" ],
+
+  "Sonic the Hedgehog": [ "sonic", "hedgehog" ],
+  "Sonic the Hedgehog 2": [ "sonic", "hedgehog", "2" ],
+  "Sonic the Hedgehog 3": [ "sonic", "hedgehog", "3" ],
+  "Sonic & Knuckles": [ "sonic", "knuckles" ],
+  "Sonic Adventure": [ "sonic", "adventure", "sonic adventures", "hedgehog" ],
+  "Sonic Adventure 2": [ "sonic", "adventure", "2" ],
+  "Sonic Heroes": [ "sonic", "heroes" ],
+  "Sonic the Hedgehog (2006)": [ "sonic", "hedgehog", "2006" ],
+  "Sonic Unleashed": [ "sonic", "unleashed" ],
+  "Sonic Colors": [ "sonic", "colors" ],
+  "Sonic Generations": [ "sonic", "generations" ],
+  "Sonic Lost World": [ "sonic", "lost", "world" ],
+  "Sonic Forces": [ "sonic", "forces" ],
+
+  "Mega Man": [ "mega", "man" ],
+  "Mega Man II": [ "mega", "man", "megaman", "2", "ii" ],
+  "Mega Man III": [ "mega", "man", "meaman", "3", "iii" ],
+  "Mega Man IV": [ "mega", "man", "megaman", "4", "iv" ],
+  "Mega Man V": [ "mega", "man", "megaman", "5", "v" ],
+
+  "Tetris": [ "tetris", "world" ],
+  "Tetris 2": [ "tetris", "2", "ii" ],
+
+  "Star Wars: The Empire Strikes Back": [ "star", "wars", "empire", "strikes", "back" ],
+  "Super Star Wars: Return of the Jedi": [ "super", "star", "wars", "return", "jedi" ],
+
+  "Batman Return of the Joker": [ "bat", "man", "batman", "return", "joker" ],
+  "Batman Forever": [ "bat", "man", "batman", "forever" ],
+
+  "Looney Tunes 2: Tasmania Devil in Island Chase": [ "looney", "tunes", "tasmania", "devil", "island", "2", "ii" ],
+  "Tiny Toon Adventures 2: Montana's Movie Madness": [ "tiny", "toon", "adventures", "montana", "madness", "2", "ii" ],
+
+  "Xenon 2: Megablast": [ "xenon", "megablast", "2", "ii" ],
+
+  "Mortal Kombat II": [ "mortal", "kombat", "combat", "2", "ii" ],
+  "Mortal Kombat III": [ "mortal", "kombat", "combat", "3", "iii" ],
+
+  "Harvest Moon GB": [ "harvest", "moon", "gb" ],
+
+  "Home Alone 2: Lost in New York": [ "home", "alone", "lost", "new", "york", "2", "ii" ],
+
+  "NBA All-Star Challenge 2": [ "nba", "all-star", "challenge", "2", "ii" ],
+
+  "Pipe Dream": [ "pipe", "dream" ],
+
+  "Nigel Mansell's World Championship": [ "nigel", "mansell", "world", "championship", "racing" ],
+
+  "The Adventures of Star Saver": [ "adventures", "star", "saver" ],
+
+  "Alien 3": [ "alien", "3", "iii" ],
+
+  "Jurassic Park Part 2: The Chaos Continues": [ "jurassic", "park", "part", "chaos", "continues", "2", "ii" ],
+  "The Lost World: Jurassic Park": [ "lost", "world", "welt", "jurassic", "park" ],
+
+  "Arcade Classics: Super Breakout/Battlezone": [ "arcade", "classics", "super", "breakout", "battlezone", "compilation", "dual" ],
+
+  "Battletoads in Ragnarok's World": [ "battletoads", "ragnarok", "world", "welt" ],
+
+  "Spud's Adventure": [ "Spuds", "adventures", "spuds adventures", "potato" ],
+
+  "Boomer's Adventure in Asmik World": [ "boomer", "adventures", "asmik", "world" ],
+
+  "Burai Fighter Deluxe": [ "burai", "fighter", "deluxe" ],
+
+  "Wayne's World": [ "wayne", "world" ],
+
+  "Crystal Quest": [ "crystal", "quest" ],
+
+  "Double Dragon 3: The Arcade Game": [ "double", "dragon", "arcade", "game", "3", "iii" ],
+
+  "Ninja Boy 2": [ "ninja", "boy", "2", "ii" ],
+  "Ninja Gaiden Shadow": [ "ninja", "gaiden", "shadow" ],
+
+  "Prehistorik": [ "prehistorik" ],
+
+  "Super Scrabble": [ "super", "scrabble" ],
+
+  "Taz-Mania 2": [ "taz", "mania", "taz-mania", "2", "ii" ],
+
+  "World Heroes 2 Jet": [ "world", "heroes", "jet", "2", "ii" ],
+
+  "WWF Superstars 2": [ "wwf", "superstars", "2", "ii" ],
+
+  "Altered Space": [ "altered", "space" ],
+
+  "Super Breakout": [ "super", "breakout", "standalone", "single" ],
+
+  "T2: The Arcade Game": [ "t2", "arcade", "game" ],
+
+  "Oddworld Adventures": [ "oddworld", "adventures" ],
+
+  "Sumo Fighter": [ "sumo", "fighter" ],
+
+  "Terminator 2: Judgment Day": [ "terminator", "judgement", "day", "2", "ii" ],
+
+  "Spanky's Quest": [ "spankys", "quest" ],
+
+  "Fighting Simulator: 2-in-1 Flying Warriors": [ "fighting", "simulator", "flying", "warriors", "2-in-1" ]
+
+
+
+
+
+}
